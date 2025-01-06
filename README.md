@@ -17,13 +17,4 @@ I am **Komal Pandey** 😃, currently pursuing my **Masters in Computer Applicat
 - Relational database management using SQL.
 - Solving Data Structure and Algorithm problems using Java.
 
-## 🤔 Hello World!!
-- 💬 Ask me about anything and everything.
-- 📫 Read my blogs: Coming Soon!
-- ⚡ Fun fact: I love learning new frameworks and trying hands-on new projects.
 
-## 🎯 Hobbies
-- Watching Dramas: K-Dramas, C-Dramas, and exploring different cultures through storytelling.
-- Reading Thriller Novels: Enjoying gripping stories.
-- Cooking: Experimenting with simple recipes and learning new cuisines to expand my skills.
-- Exploring Nature: Walking in parks and enjoying outdoor spaces to relax and refresh.
