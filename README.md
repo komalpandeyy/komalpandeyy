@@ -6,9 +6,9 @@
 <img align='right' src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width='200'>  
 
 I am 🌸 **Komal Pandey** 🌸, currently pursuing my **Masters in Computer Applications** at **Indira Gandhi Delhi Technical University for Women**. I have a strong foundation in computer science, a passion for problem-solving, and a knack for developing innovative websites.  
-\
-\
-\\
+<br>
+<br>
+<br>
 ## ⚡ Technologies
 🗣 Talk to me about:\
 ✍️ Solving Data Structure and Algorithm problems using Java.\
