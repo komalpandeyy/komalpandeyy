@@ -12,9 +12,9 @@ I am **Komal Pandey** 😃, currently pursuing my **Masters in Computer Applicat
 
 ## ⚡ Technologies
 - Talk to me about:
-- Front-end development using HTML, JavaScript, CSS, React, Bootstrap.
-- Backend development using Node.js, Express.js.
-- Relational database management using SQL.
 - Solving Data Structure and Algorithm problems using Java.
+- Front-end development using HTML, JavaScript, CSS, React.
+- Relational database management using SQL.
+
 
 
