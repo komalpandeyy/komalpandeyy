@@ -1,9 +1,9 @@
 
 ---
 
-<h2>𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="50"></h2>
+<h2>𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" alt="Sparkling Heart" width="55" height="25" /></h2>
 
-<img align='right' src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width='200'>  
+<img align='right' src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width='200'>  
 
 [![Linkedin Badge](https://img.shields.io/badge/-komalpandey01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/komalpandey01/)](https://www.linkedin.com/in/komalpandey01/)  
 [![Gmail Badge](https://img.shields.io/badge/-komalpandey1931@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:komalpandey1931@gmail.com)](mailto:komalpandey1931@gmail.com)  
